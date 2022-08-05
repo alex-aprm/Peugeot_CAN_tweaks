@@ -2,6 +2,6 @@
     "configuration": "cpu=atmega328",
     "board": "arduino:avr:nano",
     "programmer": "arduino:avrisp",
-    "sketch": "sketch_aug04a.ino",
+    "sketch": "citypark.ino",
     "port": "COM4"
 }
